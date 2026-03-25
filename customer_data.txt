@@ -1,0 +1,5 @@
+{"customer_id": "C001", "name": "Alice Johnson", "email": "alice@example.com", "city": "Lagos"}
+{"customer_id": "C002", "name": "Bob Smith", "email": "bob@example.com", "city": "Abuja"}
+{"customer_id": "C003", "name": "Carol White", "email": "carol@example.com", "city": "Port Harcourt"}
+{"customer_id": "C004", "name": "David Brown", "email": "david@example.com", "city": "Kano"}
+{"customer_id": "C005", "name": "Emma Davis", "email": "emma@example.com", "city": "Ibadan"}
